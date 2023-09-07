@@ -5,3 +5,4 @@ cd prova
 ls 
 _pycache_ prova.py
 python -m compileall prova.py
+python filename.py 
