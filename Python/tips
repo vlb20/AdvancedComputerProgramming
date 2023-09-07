@@ -1,0 +1,7 @@
+vim prova.py
+#!/user/bin/python3
+./provapy
+cd prova
+ls 
+_pycache_ prova.py
+python -m compileall prova.py
