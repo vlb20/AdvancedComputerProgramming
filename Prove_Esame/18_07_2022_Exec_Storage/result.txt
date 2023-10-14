@@ -1,0 +1,10 @@
+Prodotto: 2376
+Prodotto: 0
+Prodotto: 1224
+Prodotto: 1089
+Prodotto: 200
+Prelievo: 85
+Prelievo: 9
+Prelievo: 41
+Prelievo: 17
+Prelievo: 32
