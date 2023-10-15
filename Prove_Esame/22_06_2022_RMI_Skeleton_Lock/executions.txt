@@ -1,0 +1,2 @@
+Type: temperature - Data: 44
+Type: pressure - Data: 19
